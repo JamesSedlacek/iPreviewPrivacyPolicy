@@ -8,6 +8,10 @@ James Sedlacek built the iPreview app as a free app. This service is provided by
 
 While using our Service, no personally identifiable or contact information will be collected. The app will never ask for your name, email, or location.
 
+To facilitate in-app purchases, our app uses a service named RevenueCat. RevenueCat provides us with data on when you first used the app, when you last used the app, and how much money you spent on in-app purchases in the app. No other information (like your IP address, email, etc.) is collected or transmitted. Our app does not send custom app user IDs or attribution information to RevenueCat.
+
+For more detail, please see RevenueCat's privacy policy.
+
 ## Children’s Privacy
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
